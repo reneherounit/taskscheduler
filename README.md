@@ -4,7 +4,7 @@
 This is the **Distributed Task Scheduler** prototype required on the takehome challenge
 
 ## Design Document
-The design document can be found at the root of this project with the name **Task_Scheduler.pdf**
+The design document can be found at the root of this project with the name ![Task_Scheduler.pdf](Task_Scheduler.pdf)
 
 ## Technologies Used
 - **Backend:** Node.js, Express, TypeScript
